@@ -92,7 +92,7 @@ function mayorQueCincuenta(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if (60 > 50)
-    return true;
+    return true; 
 
   
 }
